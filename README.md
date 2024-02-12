@@ -13,3 +13,4 @@ ratter's discord: yunogasailover.
 
 # This rat is not inactive. The stager jars are still being updated with new urls and tokens.
  - since this rat downloads a jar from a server (github) where the jar can be changed, this rat probably will not go inactive
+ - since then the repos were deleted (wahoo!) however theoretically these repos could be created again (womp womp :()
