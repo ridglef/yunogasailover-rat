@@ -10,3 +10,4 @@
 - ![image](https://github.com/ridglef/yunogasailover-rat/assets/126202739/cf0a3d98-16eb-4c66-81d2-059f360d2f28)
 ![image](https://github.com/ridglef/yunogasailover-rat/assets/126202739/b0e57353-9032-4aaf-b595-adffdb209210)
 - numbers to flag as associated with this ratter for future prevention of rats ******7890
+discord: yunogasailover.
