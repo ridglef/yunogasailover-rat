@@ -9,3 +9,4 @@
 - known infected users: (for new jar, they are updated often presumably to termination)  Li080205@outlook.com
 - ![image](https://github.com/ridglef/yunogasailover-rat/assets/126202739/cf0a3d98-16eb-4c66-81d2-059f360d2f28)
 ![image](https://github.com/ridglef/yunogasailover-rat/assets/126202739/b0e57353-9032-4aaf-b595-adffdb209210)
+- some useful information to identify the ratters' alts: ip - 43.255.172.127
