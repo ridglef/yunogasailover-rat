@@ -11,5 +11,5 @@
 ![image](https://github.com/ridglef/yunogasailover-rat/assets/126202739/b0e57353-9032-4aaf-b595-adffdb209210)
 ratter's discord: yunogasailover.
 
-# This rat is not active (WAHOO!). The stager jars are still being updated with new urls and tokens.
+# This rat is not active (WAHOO!). The stager jars are not still being updated with new urls and tokens.
  - the first stage host account has been deleted
